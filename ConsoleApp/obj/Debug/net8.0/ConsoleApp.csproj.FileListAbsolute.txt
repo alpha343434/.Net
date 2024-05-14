@@ -1,5 +1,0 @@
-C:\Users\zeray\source\repos\BusinessApp\BusinessApp\obj\Debug\net8.0\ConsoleApp.csproj.AssemblyReference.cache
-C:\Users\zeray\source\repos\BusinessApp\BusinessApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\zeray\source\repos\BusinessApp\BusinessApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
-C:\Users\zeray\source\repos\BusinessApp\BusinessApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
-C:\Users\zeray\source\repos\BusinessApp\BusinessApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
