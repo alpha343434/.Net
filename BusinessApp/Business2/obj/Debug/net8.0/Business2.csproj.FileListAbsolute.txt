@@ -1,0 +1,5 @@
+C:\Users\zeray\source\repos\BusinessApp\Business2\obj\Debug\net8.0\Business2.csproj.AssemblyReference.cache
+C:\Users\zeray\source\repos\BusinessApp\Business2\obj\Debug\net8.0\Business2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeray\source\repos\BusinessApp\Business2\obj\Debug\net8.0\Business2.AssemblyInfoInputs.cache
+C:\Users\zeray\source\repos\BusinessApp\Business2\obj\Debug\net8.0\Business2.AssemblyInfo.cs
+C:\Users\zeray\source\repos\BusinessApp\Business2\obj\Debug\net8.0\Business2.csproj.CoreCompileInputs.cache
