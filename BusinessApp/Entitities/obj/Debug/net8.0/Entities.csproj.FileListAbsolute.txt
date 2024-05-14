@@ -1,0 +1,4 @@
+C:\Users\zeray\source\repos\BusinessApp\Entitities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeray\source\repos\BusinessApp\Entitities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\zeray\source\repos\BusinessApp\Entitities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\zeray\source\repos\BusinessApp\Entitities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
