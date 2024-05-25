@@ -1,0 +1,14 @@
+C:\Users\zeray\source\repos\ProblemLogger\bin\Debug\net8.0\ProblemLogger.exe
+C:\Users\zeray\source\repos\ProblemLogger\bin\Debug\net8.0\ProblemLogger.deps.json
+C:\Users\zeray\source\repos\ProblemLogger\bin\Debug\net8.0\ProblemLogger.runtimeconfig.json
+C:\Users\zeray\source\repos\ProblemLogger\bin\Debug\net8.0\ProblemLogger.dll
+C:\Users\zeray\source\repos\ProblemLogger\bin\Debug\net8.0\ProblemLogger.pdb
+C:\Users\zeray\source\repos\ProblemLogger\obj\Debug\net8.0\ProblemLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeray\source\repos\ProblemLogger\obj\Debug\net8.0\ProblemLogger.AssemblyInfoInputs.cache
+C:\Users\zeray\source\repos\ProblemLogger\obj\Debug\net8.0\ProblemLogger.AssemblyInfo.cs
+C:\Users\zeray\source\repos\ProblemLogger\obj\Debug\net8.0\ProblemLogger.csproj.CoreCompileInputs.cache
+C:\Users\zeray\source\repos\ProblemLogger\obj\Debug\net8.0\ProblemLogger.dll
+C:\Users\zeray\source\repos\ProblemLogger\obj\Debug\net8.0\refint\ProblemLogger.dll
+C:\Users\zeray\source\repos\ProblemLogger\obj\Debug\net8.0\ProblemLogger.pdb
+C:\Users\zeray\source\repos\ProblemLogger\obj\Debug\net8.0\ProblemLogger.genruntimeconfig.cache
+C:\Users\zeray\source\repos\ProblemLogger\obj\Debug\net8.0\ref\ProblemLogger.dll
